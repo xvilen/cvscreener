@@ -25,47 +25,8 @@ const data =[
     language:'c',
     framwork:'django',
     image:'https://randomuser.me/api/portraits/med/men/67.jpg'
-},
-    {
-    name : 'xyz',
-    age:79,
-    city:'kahi to rehta he',
-    language:'c++',
-    framwork:'none',
-    image:'https://randomuser.me/api/portraits/med/men/69.jpg'
-},
-    {
-    name : 'chocolaty boy',
-    age:'cake murder on 15/8/2002 guess my age',
-    city:'sapno ka sheher',
-    language:'hindi',
-    framwork:'ye kya hota he',
-    image:'https://randomuser.me/api/portraits/med/men/98.jpg'
-},
-    {
-    name : 'chapri boy',
-    age:'landed on earth on 29/4/2000',
-    city:'okat ke bahr',
-    language:'professional chapri language',
-    framwork:'farm =photofram work=chae ki tapri ',
-    image:'https://randomuser.me/api/portraits/med/men/28.jpg'
-},
-    {
-    name : 'angel priya',
-    age:'first cry on 12/3/2002',
-    city:'in your dreams',
-    language:'pirofesnol in  inglis',
-    framwork:'i dont work',
-    image:'https://randomuser.me/api/portraits/med/women/98.jpg'
-},
-    {
-    name : 'dadys princess',
-    age:'royal entry on 15/8/2002',
-    city:'mumbaiker',
-    language:'inglis,gormon,frinch,spensh',
-    framwork:'i am bonrn rich',
-    image:'https://randomuser.me/api/portraits/med/women/9.jpg'
-},
+}
+    
 ]
 function cvitrator(profile) {
     let nextindex=0;
